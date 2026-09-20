@@ -1,0 +1,6 @@
+{
+  "name": "Daniel: Night of the Lions - Production Bible",
+  "description": "Continuity, production-design system, and Google Flow/Veo prompt specifications for Daniel 6 cinematic drama",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
